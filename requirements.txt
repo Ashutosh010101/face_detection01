@@ -5,4 +5,4 @@ numpy
 scikit-learn
 pandas
 datetime
-opencv-python-headless
+opencv-python-headless==4.2
