@@ -5,4 +5,5 @@ numpy
 scikit-learn
 pandas
 datetime
+opencv-contirb-python
 opencv-python-headless
