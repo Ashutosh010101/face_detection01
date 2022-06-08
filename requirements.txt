@@ -6,4 +6,3 @@ scikit-learn
 pandas
 datetime
 opencv-python
-opencv-python-headless
