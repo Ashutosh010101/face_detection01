@@ -6,6 +6,5 @@ scikit-learn
 pandas
 joblib
 datetime
-time
 threading
 cv2
